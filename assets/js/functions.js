@@ -3321,6 +3321,126 @@ Amplitude.init({
       "url": "./commercials/en-US/aviation-aerospace/lind-group/1672761810727/commercial.mp3",
       "artist": "Aviation Aerospace",
       "cover_art_url": "assets/img/krang/krang-radio-011.jpg"
+    },
+    {
+      "name": "Innovation And Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-innovation-and-advertising-come-together.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Future Of Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-future-of-advertising-is-now.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Power Of AI",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-power-of-ai-technology-meets-the-world-of-advertising.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Technology Leads",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-leads-the-way-in-advertisemen.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Meets Advertising",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-meets-advertising-excellence.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Innovation And Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-innovation-and-advertising-come-together.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Future Of Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-future-of-advertising-is-now.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Power Of AI",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-power-of-ai-technology-meets-the-world-of-advertising.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Technology Leads",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-leads-the-way-in-advertisemen.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Meets Advertising",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-meets-advertising-excellence.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Innovation And Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-innovation-and-advertising-come-together.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Future Of Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-future-of-advertising-is-now.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Power Of AI",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-power-of-ai-technology-meets-the-world-of-advertising.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Technology Leads",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-leads-the-way-in-advertisemen.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Meets Advertising",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-meets-advertising-excellence.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Innovation And Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-innovation-and-advertising-come-together.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Future Of Advertising",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-future-of-advertising-is-now.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "Power Of AI",
+      "url": "./commercials/jingles/you-are-listening-to-krangs-radio--where-the-power-of-ai-technology-meets-the-world-of-advertising.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Technology Leads",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-leads-the-way-in-advertisemen.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
+    },
+    {
+      "name": "AI Meets Advertising",
+      "url": "./commercials/jingles/you-re-listening-to-krangs-radio--where-ai-technology-meets-advertising-excellence.mp3",
+      "artist": "Krangs Radio",
+      "cover_art_url": "assets/img/krang/station.jpg"
     }
   ]
 });
